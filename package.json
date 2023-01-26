@@ -18,5 +18,10 @@
   "homepage": "https://github.com/keisto/js-practice-watchit#readme",
   "bin": {
     "watchit": "index.js"
+  },
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "chokidar": "^3.5.3",
+    "lodash.debounce": "^4.0.8"
   }
 }
